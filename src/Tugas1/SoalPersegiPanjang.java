@@ -1,7 +1,6 @@
 package Tugas1;
 
 public class SoalPersegiPanjang {
-
     public static void main(String[] abc){
 
         int panjang = 10;
